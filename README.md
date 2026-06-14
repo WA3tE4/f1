@@ -1,2 +1,11 @@
-# f1
-F1 is a project I've originally cloned and then built my own expansion this started as a bare bones project with minimal features. I've built it too where it is today and removed any Godot 3 engine materials and updated it with the new Godot 4.6 engine.
+F1
+
+A 3d Godot F1 style car experience.
+
+features different tracks.
+
+Engine sounds. a Visual Hud, Ai competitors
+
+What more do you really need?
+
+Wa3te4
