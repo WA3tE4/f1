@@ -8,4 +8,7 @@ Engine sounds. a Visual Hud, Ai competitors
 
 What more do you really need?
 
+Currently sits as a good example of what it could become if i put more thought into it.
+This may be  something ill continue working on
+
 Wa3te4
